@@ -1,5 +1,5 @@
 # Garmen
-Web Garmen en WordPress
+Web Garmen en WordPress garmen.es
 
 Si quieres visitar la Web puedes hacerlo en garmen.es
 
